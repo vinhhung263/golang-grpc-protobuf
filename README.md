@@ -1,5 +1,17 @@
-go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.26
-go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.1
+> Learn the gRPC theory to understand how gRPC works
 
-apply evans CLI https://github.com/ktr0731/evans#from-github-releases
--> cmd: evans --host localhost --port 50051 --reflection repl
+> Compare gRPC and REST API paradigm
+
+> Write your gRPC service definition in .proto files
+
+> Generate Server & Client Code in Golang using the Gradle gRPC plugin
+
+> Implement Unary, Server Streaming, Client Streaming & Bi-Directional Streaming API
+
+> Practice your learning with Exercises & Solutions
+
+> Implement advanced concepts such as Error Handling, Deadlines & SSL Security
+
+> Implement a full CRUD API on top of MongoDB
+
+Source: https://www.udemy.com/course/grpc-golang/
